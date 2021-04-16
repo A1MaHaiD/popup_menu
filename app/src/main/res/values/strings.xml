@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PopupMenu</string>
+    <string name="show_menu">Показать меню</string>
+    <string name="myao">Мяу</string>
 </resources>
